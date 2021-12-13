@@ -1,10 +1,10 @@
 
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Rafa Nadal </b></h1>
+<h1 style="font-family:Harrington MT; font-size:300%;" align="center" > <b> Rafa Nadal </b></h1>
 
 <div align="center">
     <img    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rafael_Nadal_%2812054444625%29_%28cropped%29.jpg/368px-Rafael_Nadal_%2812054444625%29_%28cropped%29.jpg"
             title="Rafa Nadal"
-            width="20%"
+            width="30%"
             height="20%" 
             />
 </div>
