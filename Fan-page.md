@@ -5,7 +5,8 @@
     <img    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rafael_Nadal_%2812054444625%29_%28cropped%29.jpg/368px-Rafael_Nadal_%2812054444625%29_%28cropped%29.jpg"
             title="Rafa Nadal"
             width="30%"
-            height="20%" 
+            height="30%" 
+
             />
 </div>
 
